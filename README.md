@@ -9,7 +9,6 @@ Code and data accompanying the MSc dissertation submitted to the Department of C
 .
 ├── README.md                                    (this file)
 ├── LICENSE                                      (MIT)
-├── requirements.txt                             (library versions)
 ├── notebooks/
 │   ├── 01_liar_affective_exploration.ipynb     (Section 5.2 of dissertation)
 │   ├── 02_liar_baseline_classifier.ipynb       (Section 5.3 of dissertation)
